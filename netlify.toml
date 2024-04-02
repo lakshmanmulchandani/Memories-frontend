@@ -1,2 +1,2 @@
 [build]
-  command = "npm install --force && npm install @material-ui/core@^1.0.0 @types/react@^16.3.0 react@^15.0.2 typescript@>=2.8.0 && npm run build"
+  command = "npm install --force && npm run build"
